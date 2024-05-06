@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instructions for WebSim Plugins</title>
+</head>
+<body>
+    <h1>How to Use WebSim Plugins</h1>
+    <h2>Adding a Plugin</h2>
+    <p>To add a plugin to your WebSim page, follow these steps:</p>
+    <ol>
+        <li>Visit the main WebSim page at <a href="https://websim.ai" target="_blank">https://websim.ai</a>.</li>
+        <li>Identify the plugin you wish to add from our repository.</li>
+        <li>Copy the plugin ID and append it to the WebSim page URL in the format: <code>?plugin=PLUGIN_ID</code>.</li>
+        <li>For example, to add a plugin with ID "12345", you would navigate to <code>https://websim.ai?plugin=12345</code>.</li>
+    </ol>
+    <h2>Configuring Plugins</h2>
+    <p>Some plugins may require additional configuration. Refer to the specific documentation for each plugin for detailed instructions.</p>
+</body>
+</html>
